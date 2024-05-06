@@ -18,3 +18,7 @@ Libretto is a Flutter Mobile Application that helps musicians plan their concert
 - "Delete Checked" : Deletes the checked events.
 - "Sort" : Sorts the events by date.
 - "Delete All" : Deletes all events.  
+
+## Collaborators  
+- [Athanasios Tsoukleidis-Karydakis](https://github.com/ThanosTsoukleidis-Karydakis)  (el19009)
+- [Dimitrios-David Gerokonstantis](https://github.com/DimitrisDavidGerokonstantis)  (el19209)
