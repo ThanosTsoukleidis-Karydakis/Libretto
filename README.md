@@ -7,7 +7,7 @@ Libretto is a Flutter Mobile Application that helps musicians plan their concert
 
 ### Possible voice commands: 
 
-- "Open <Song title>" : Opens the music score of the specified song.
+- "Open ---Title of a song---" : Opens the music score of the specified song.
 - "Songs" : Navigates the user to the Songs screen.
 - "Add Event" : Navigates the user to the Add Event screen.
 - "Contacts" : Navigates the user to the Contacts screen.
