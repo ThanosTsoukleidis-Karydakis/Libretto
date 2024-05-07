@@ -33,7 +33,7 @@ Main Page             |  Delete All Events |  Delete Checked Events |  Map Icon 
 The main page of the application. Also contains the microphone for giving voice commands and the camera for using the OCR technology | Deletes all events in the list | Deletes only the events the user has ticked | It navigates the user to his phone's Google Maps GPS app and shows him a route to the specified location of the event
 ![Main page](https://github.com/ThanosTsoukleidis-Karydakis/Libretto-MobileApp/assets/106911775/cdc5c952-d2b1-421d-81bb-1c07645051a1)  |  ![Main page-delete all events](https://github.com/ThanosTsoukleidis-Karydakis/Libretto-MobileApp/assets/106911775/d084826d-8aa9-40f2-9b0e-53d0296f7cfd) | ![Main page-delete checked events](https://github.com/ThanosTsoukleidis-Karydakis/Libretto-MobileApp/assets/106911775/f3217154-79c9-4c33-8698-61c0dd6bbbe9) | ![Main Page-Map icon](https://github.com/ThanosTsoukleidis-Karydakis/Libretto-MobileApp/assets/106911775/d2bdc30a-b331-4c04-9c52-4b7bc37c96c0)
 
-- **Contacts Page:**
+- <h2>Contacts Page:</h2>
 
 Contacts Page             |  Phone Icon 
 :-------------------------:|:-------------------------:
@@ -47,7 +47,7 @@ Songs Page             |  File Icon
 The songs page of the application | By pressing it, the music score of a particular song saved in pdf format is opened
 ![Songs](https://github.com/ThanosTsoukleidis-Karydakis/Libretto-MobileApp/assets/106911775/5aca8769-4585-4645-97d8-ce4dad84d296) | ![Songs-file icon](https://github.com/ThanosTsoukleidis-Karydakis/Libretto-MobileApp/assets/106911775/0a675c59-deab-4384-a1bf-7d885b4b0865)
 
-- <h2>My Progress Page:**</h2>
+- <h2>My Progress Page:</h2>
 
 My Progress Page - Not full progress cycle             |  My Progress page - Completed one progress cycle
 :-------------------------:|:-------------------------:
