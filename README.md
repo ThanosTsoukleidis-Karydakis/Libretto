@@ -6,7 +6,10 @@ Libretto is a Flutter Mobile Application that helps musicians plan their concert
 - Gamification: A circular progress bar that gets fuller each time the user plans a new concert or rehearsal. The user earns "musical notes" every time he completes a progress cycle. A virtual character encourages him to work more and rewards him when he completes a cycle of the progress bar.  
 - Haptics: The phone vibrates (as a warning) every time a user tries to delete something.
 - Different orientations every time the user flips his device.
-- Reorderable lists: All lists can be reordered by long tapping and dragging list tiles up and down.  
+- Reorderable lists: All lists can be reordered by long tapping and dragging list tiles up and down.
+
+The application was first designed using Figma. Below can one find the Figma Prototype:  
+https://www.figma.com/file/6qce8R4Sdd3F8fjaz78Hoc/Libretto?type=design&node-id=0%3A1&mode=design&t=Zt4QqQkN5KoyqFKP-1
 
 ### Possible voice commands: 
 
